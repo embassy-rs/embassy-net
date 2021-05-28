@@ -1,3 +1,7 @@
+# REPO ARCHIVED
+
+`embassy-net` development continues in the [main embassy repo](https://github.com/embassy-rs/embassy).
+
 # embassy-net
 
 embassy-net contains an async network API based on smoltcp and embassy, designed
